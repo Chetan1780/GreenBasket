@@ -1,0 +1,4 @@
+{
+  "message": "User registered successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg2MDU1OGU5ZDJhMzIwNDE2ODk4ZGQiLCJpYXQiOjE3MzY4MzY0NDB9.lySk325RN0OHv--0NGue91NfUecjtbO9aYmfiJ-MEh4"
+}
